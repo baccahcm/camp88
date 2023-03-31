@@ -1,4 +1,4 @@
 {
-  host : "sunkey.vin"
-  ,name : "CAMP88"
+  host : 'sunkey.vin'
+  ,name : 'CAMP88'
 }
